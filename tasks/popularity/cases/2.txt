@@ -1,0 +1,425 @@
+299
+Batu Caves -> Bukit Kemuning 247
+Bandar Tun Hussein Onn -> Mississippi 347
+Mississippi -> Arizona 336
+Cheras -> Batu Pahat 466
+Utah -> Johor Bahru 226
+Besut -> Ohio 271
+Lipis -> South Carolina 441
+Jelebu -> Oregon 203
+Connecticut -> New Mexico 362
+Puncak Alam -> South Dakota 470
+Batu Pahat -> Mersing 351
+Arizona -> Bandar Baru Klang 253
+Montana -> Bandar Tun Hussein Onn 427
+Besut -> Bandar Baharu 130
+Selayang -> Tanjung Karang 449
+Pekan Sepang -> Selayang 179
+Cheras -> North Dakota 326
+Puncak Alam -> Mississippi 126
+Subang Jaya -> Michigan 491
+Perlis -> Illinois 132
+Kapar -> Bandar Baharu 187
+Baling -> Balakong 294
+Semenyih -> Damansara 367
+New Mexico -> Georgia 192
+Kapar -> Ulu Klang 132
+Pennsylvania -> Kapar 458
+Shah Alam -> Jeram 126
+Pandamaran -> Jelebu 108
+Batu Pahat -> Wisconsin 221
+Vermont -> Missouri 307
+New Mexico -> Missouri 316
+Hawaii -> Idaho 108
+Utah -> Ijok 393
+Rhode Island -> Wisconsin 466
+Ohio -> Bandar Baru Bangi 229
+Tanjung Karang -> Cyberjaya 451
+Ulu Klang -> Bukit Raja 270
+Tanjung Karang -> Bandar Sri Damansara 156
+New Hampshire -> Bandar Tun Hussein Onn 242
+Indiana -> Putra Heights 357
+Lipis -> Virginia 189
+Putrajaya -> Nevada 432
+Kajang -> Hawaii 400
+Rhode Island -> Kuang 354
+Petaling Jaya -> Rawang 279
+Sungai Buloh -> Puncak Alam 264
+Indiana -> Bandar Tun Hussein Onn 135
+Kota Tinggi -> Nebraska 213
+Telok Menegun -> Vermont 418
+Batu Caves -> Colorado 245
+Batu Caves -> Petaling Jaya 150
+Alabama -> Ulu Klang 398
+Bandar Baharu -> Oregon 370
+Kundang -> Bandar Baharu 192
+Delaware -> New Jersey 440
+Rhode Island -> New Hampshire 304
+Wyoming -> Idaho 395
+New Hampshire -> Pelabuhan Klang 412
+American Samoa -> Rhode Island 300
+Nevada -> Bandar Baru Bangi 245
+Indiana -> Puncak Alam 440
+Bukit Kemuning -> Oregon 204
+Pelabuhan Klang -> West Virginia 101
+Damansara -> Bestari Jaya 309
+Putatan -> Cheras 431
+Kajang -> Bandar Baru Klang 313
+Serdang -> Nevada 284
+Country Heights -> Kansas 445
+District of Columbia -> Wisconsin 113
+Connecticut -> Pelabuhan Klang 198
+Cyberjaya -> Kota Raja 319
+Missouri -> Mersing 278
+Connecticut -> Telok Menegun 324
+Johor Bahru -> Ampang 492
+New York -> Kota Raja 184
+Montana -> New Jersey 364
+Cyberjaya -> Bandar Tun Hussein Onn 491
+Pelabuhan Klang -> South Carolina 357
+Alabama -> West Virginia 461
+Bukit Raja -> Baling 332
+Missouri -> Kota Raja 307
+Ohio -> Bandar Baru Klang 135
+Rhode Island -> Alaska 276
+Serdang -> Louisiana 116
+Kampung Sungai Pusu -> Beranang 250
+Putrajaya -> Jeram 194
+Mississippi -> Maryland 417
+Perlis -> Putrajaya 192
+Bukit Kemuning -> Mississippi 178
+Putatan -> Bandar Baru Klang 330
+West Virginia -> Ara Damansara 346
+Batu Caves -> Puchong Perdana 316
+Maran -> Alaska 474
+Dengkil -> Montana 172
+Vermont -> Texas 407
+Cheras -> Serdang 273
+Bandar Baru Klang -> Sungai Buloh 158
+Kampung Sungai Pusu -> Pelabuhan Klang 464
+Kampar -> Bangi 139
+Massachusetts -> Oklahoma 147
+Tanjung Karang -> Serdang 227
+Cyberjaya -> Puncak Alam 373
+Wisconsin -> Serdang 414
+Virgin Islands -> New Hampshire 201
+Bangi -> Country Heights 156
+Kapar -> Michigan 186
+Louisiana -> Florida 121
+Baling -> Balakong 239
+Glenmarie Cove -> Cyberjaya 179
+Virgin Islands -> Kuala Lumpur International Airport 176
+Perlis -> Oregon 167
+Jeram -> Wyoming 313
+Kansas -> Semenyih 252
+Batu Pahat -> Sungai Buloh 197
+Alaska -> Wisconsin 268
+Wyoming -> Tanjung Karang 480
+Setapak -> Kapar 445
+Api-Api -> Michigan 400
+Connecticut -> Louisiana 112
+Lipis -> Kajang 384
+Rhode Island -> Bandar Baru Bangi 329
+Putra Heights -> Kuala Lumpur International Airport 455
+Telok Menegun -> Bangi 317
+Puchong -> Ohio 448
+California -> Glenmarie Cove 348
+Cyberjaya -> Batu Caves 189
+Bukit Raja -> Cyberjaya 343
+Ampang -> Bukit Kemuning 307
+Dalat -> Pandamaran 392
+Setapak -> Beranang 388
+Maran -> Shah Alam 386
+Bandar Baharu -> Guam 492
+Selama -> New Jersey 158
+Pelabuhan Klang -> Ampang 395
+Connecticut -> Tanjung Karang 163
+New York -> Shah Alam 279
+Pandamaran -> Besut 428
+Putra Heights -> Michigan 375
+Virginia -> Kajang 181
+Delaware -> Selama 432
+Serdang -> Maryland 333
+Api-Api -> Ohio 206
+Petaling Jaya -> Ohio 146
+South Dakota -> Ohio 261
+Missouri -> Alaska 107
+Louisiana -> Semenyih 345
+Pasangan -> Vermont 184
+West Virginia -> New York 390
+Puchong Perdana -> Tennessee 403
+Utah -> Wisconsin 291
+Bandar Baharu -> Besut 419
+Ampang -> Bandar Baru Bangi 299
+Maine -> Rawang 475
+Montana -> Ohio 232
+Missouri ->  Hulu Perak 255
+Pekan Sepang -> Maryland 282
+Pelabuhan Klang -> Illinois 198
+Nebraska -> Petaling Jaya 305
+Putatan -> Taman Sri Nanding 102
+Mersing -> Delaware 463
+Hawaii -> Putra Heights 160
+Delaware -> South Carolina 449
+Batu 4 -> Connecticut 126
+Bestari Jaya -> Jeram 296
+Jelebu -> Wisconsin 320
+Selama -> District of Columbia 445
+Country Heights -> Kentucky 346
+Kuala Lumpur International Airport -> Johor Bahru 329
+New Mexico -> Nebraska 495
+Puchong Perdana -> Delaware 440
+New Mexico -> Perlis 187
+Alabama -> Kampung Sungai Pusu 204
+South Carolina -> Cheras 226
+Virgin Islands -> New Mexico 285
+Petaling Jaya -> Damansara 158
+ Hulu Perak -> Tanjung Karang 150
+Alaska -> Texas 316
+Kampar -> Batu Pahat 462
+Petaling Jaya -> Semenyih 479
+Rhode Island -> Louisiana 426
+Oklahoma -> Alabama 172
+Api-Api -> Vermont 383
+Bangi -> Selayang 401
+Balakong -> Puchong 229
+Country Heights -> Maran 216
+Bangi -> Damansara 481
+Texas -> Tanjung Karang 475
+Pekan Sepang -> Setapak 113
+Kajang -> Iowa 428
+Bandar Baru Bangi -> Montana 491
+Semenyih -> Bandar Baru Bangi 178
+Georgia -> Arkansas 477
+Glenmarie Cove -> Batu 4 424
+Jeram -> Wisconsin 319
+Illinois -> Ulu Klang 148
+Serdang -> Kota Tinggi 136
+Country Heights -> Lipis 212
+Batu Pahat -> Maine 462
+Indiana -> Illinois 396
+Putrajaya -> Ijok 429
+Wisconsin -> Jelebu 295
+Lipis -> Bukit Kemuning 321
+California -> Dengkil 336
+Wyoming -> Bandar Baru Bangi 479
+Delaware -> Maran 321
+Kuang -> Taman Sri Nanding 270
+Semenyih -> New Hampshire 102
+Puchong Perdana -> Florida 310
+Puncak Alam -> Batu Pahat 151
+Kampar -> Minnesota 113
+Maryland -> South Carolina 304
+Puerto Rico -> South Carolina 113
+Illinois -> California 142
+Guam -> Rhode Island 260
+Puchong Perdana -> New Hampshire 204
+Iowa -> American Samoa 442
+Arizona -> Kampung Sungai Pusu 496
+North Carolina -> Utah 490
+Rawang -> Guam 272
+ Hulu Perak -> Missouri 224
+Semenyih -> Bandar Tun Hussein Onn 402
+Sungai Buloh -> Nebraska 234
+Country Heights -> Bandar Tun Hussein Onn 357
+Ampang -> Iowa 182
+Dengkil -> District of Columbia 334
+Ampang -> Bandar Baharu 231
+Kota Raja -> Oklahoma 251
+California -> Texas 323
+Kota Raja -> Selayang 148
+Puerto Rico -> Nebraska 281
+Pelabuhan Klang -> Serdang 233
+Idaho -> Maine 251
+Colorado -> Maran 190
+North Dakota -> Dengkil 249
+New Jersey -> South Dakota 351
+Bestari Jaya -> Puerto Rico 259
+Telok Menegun -> Pelabuhan Klang 306
+Colorado -> Kota Tinggi 167
+Damansara -> Kota Raja 345
+Selama -> Guam 278
+Bangi -> Montana 188
+Kapar -> Rhode Island 290
+Kentucky -> Besut 478
+Ampang -> Kuala Lumpur International Airport 299
+Florida -> Telok Menegun 126
+Vermont -> Ijok 393
+Kampung Sungai Pusu -> Putrajaya 265
+Pandamaran -> Damansara 411
+Florida -> Mersing 192
+Putra Heights -> Washington 414
+Setapak -> Bangi 408
+Kota Tinggi -> Kuala Lumpur International Airport 478
+Rawang -> Johor Bahru 248
+Bandar Sri Damansara -> New Hampshire 337
+Putra Heights -> Damansara 379
+New York -> Florida 203
+Kota Tinggi -> Batu Pahat 131
+Ulu Klang -> Florida 218
+Minnesota -> Virginia 342
+Nevada -> Api-Api 384
+Louisiana -> Mersing 495
+Johor Bahru -> Hawaii 383
+Beranang -> Maine 445
+Bukit Raja -> Ulu Klang 248
+ Hulu Perak -> Montana 144
+Wisconsin -> Baling 272
+Bestari Jaya -> Ijok 343
+Alaska -> Virgin Islands 396
+Bestari Jaya -> Virginia 352
+Kampar -> Selama 448
+Rawang ->  Hulu Perak 482
+California -> Mersing 353
+Minnesota -> Cheras 129
+Balakong -> Florida 145
+Setapak -> Country Heights 118
+Ampang -> Cyberjaya 395
+Subang Jaya -> New Jersey 437
+Bandar Baru Bangi -> Virgin Islands 246
+Telok Menegun -> Bandar Sri Damansara 347
+Puchong -> Baling 424
+Bandar Sri Damansara -> Louisiana 356
+Maryland -> Batu Caves 338
+Vermont -> Maryland 437
+Nebraska -> Dalat 470
+Kampung Sungai Pusu -> Vermont 400
+Iowa -> Kapar 252
+District of Columbia -> Glenmarie Cove 283
+Ara Damansara -> Pennsylvania 444
+Mersing -> Rawang 366
+Dengkil -> Balakong 232
+Rawang -> Dalat 369
+Alaska -> District of Columbia 266
+Semenyih -> Arizona 145
+Ohio -> Balakong 375
+Tennessee -> Puchong Perdana 351
+Texas -> Lipis 396
+Nevada -> Lipis 497
+Pasangan -> Balakong 384
+Baling -> Maran 471
+OUTPUT
+123
+Rhode Island , 3005
+Wisconsin , 2979
+Vermont , 2929
+Cyberjaya , 2740
+Pelabuhan Klang , 2664
+Ampang , 2600
+Tanjung Karang , 2551
+Delaware , 2545
+Mersing , 2498
+Bandar Baru Bangi , 2496
+Rawang , 2491
+Damansara , 2450
+Batu Pahat , 2441
+Lipis , 2440
+Bandar Tun Hussein Onn , 2401
+Ohio , 2303
+Semenyih , 2270
+Putra Heights , 2140
+Maryland , 2111
+Alaska , 2103
+Bangi , 2090
+Kampung Sungai Pusu , 2079
+Maran , 2058
+Baling , 2032
+Puchong Perdana , 2024
+Bandar Baharu , 2021
+Montana , 2018
+Serdang , 2016
+Nebraska , 1998
+Louisiana , 1971
+Kapar , 1950
+Texas , 1917
+Balakong , 1898
+South Carolina , 1890
+Cheras , 1851
+Country Heights , 1850
+Nevada , 1842
+Telok Menegun , 1838
+New Mexico , 1837
+Puncak Alam , 1824
+New Hampshire , 1802
+Missouri , 1794
+Selama , 1761
+New Jersey , 1750
+Kuala Lumpur International Airport , 1737
+Besut , 1726
+Kajang , 1706
+Johor Bahru , 1678
+Wyoming , 1667
+Maine , 1633
+Bestari Jaya , 1559
+Ijok , 1558
+Kota Raja , 1554
+Petaling Jaya , 1517
+Putrajaya , 1512
+California , 1502
+Batu Caves , 1485
+Setapak , 1472
+Michigan , 1452
+District of Columbia , 1441
+Ulu Klang , 1414
+Mississippi , 1404
+Utah , 1400
+Api-Api , 1373
+Pandamaran , 1339
+Indiana , 1328
+Dengkil , 1323
+Florida , 1315
+Virgin Islands , 1304
+Iowa , 1304
+Guam , 1302
+West Virginia , 1298
+Connecticut , 1285
+Bukit Kemuning , 1257
+ Hulu Perak , 1255
+Jeram , 1248
+Alabama , 1235
+Glenmarie Cove , 1234
+Dalat , 1231
+Arizona , 1230
+Bandar Sri Damansara , 1196
+Bukit Raja , 1193
+Bandar Baru Klang , 1189
+Selayang , 1177
+Kampar , 1162
+Kota Tinggi , 1125
+Puchong , 1101
+Beranang , 1083
+South Dakota , 1082
+Virginia , 1064
+New York , 1056
+Hawaii , 1051
+Illinois , 1016
+Oregon , 944
+Subang Jaya , 928
+Jelebu , 926
+Pennsylvania , 902
+Putatan , 863
+Sungai Buloh , 853
+Kentucky , 824
+Shah Alam , 791
+Ara Damansara , 790
+Idaho , 754
+Tennessee , 754
+American Samoa , 742
+Kansas , 697
+Perlis , 678
+Georgia , 669
+Puerto Rico , 653
+Kuang , 624
+Colorado , 602
+Minnesota , 584
+North Dakota , 575
+Pekan Sepang , 574
+Oklahoma , 570
+Pasangan , 568
+Batu 4 , 550
+North Carolina , 490
+Arkansas , 477
+Washington , 414
+Taman Sri Nanding , 372
+Kundang , 192
+Massachusetts , 147

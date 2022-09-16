@@ -1,0 +1,32 @@
+20
+Kuala Lumpur -> Butterworth 678
+Cameron Highland -> Kuala Lumpur 548
+Genting Highland -> Japan 845
+Korea -> Japan 547
+America -> Africa 451
+Africa -> Kuala Lumpur 485
+Kuala Lumpur -> Japan 534
+Kuala Lumpur -> Jawi 536
+Jawi -> America 329
+Kuala Lumpur -> Korea 827
+Jawi -> Genting Highland 546
+Kuala Lumpur -> America 628
+Cameron Highland -> Butterworth 500
+Genting Highland -> Butterworth 602
+Korea -> Jawi 200
+America -> Africa 181
+Africa -> Cameron Highland 302
+Kuala Lumpur -> Genting Highland 988
+Genting Highland -> Jawi 341
+Jawi -> America 299
+OUTPUT
+9
+Kuala Lumpur , 5224
+Genting Highland , 3322
+Jawi , 2251
+Japan , 1926
+America , 1888
+Butterworth , 1780
+Korea , 1574
+Africa , 1419
+Cameron Highland , 1350

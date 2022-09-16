@@ -1,0 +1,1180 @@
+996
+Virginia -> Alaska 253
+Nebraska -> Ohio 387
+Utah -> Kuang 137
+ Hulu Perak -> Georgia 316
+Tampa -> Jelebu 173
+Choa Chu Kang -> Shinjuku 384
+Delaware -> St. John East 103
+Odaiba -> Nevada 416
+Odaiba -> District of Columbia 381
+Putra Heights -> California 488
+Indiana -> Baling 356
+Montana -> Dalat 329
+Utah -> Arkansas 294
+Ohio -> Clementi 108
+Bandar Sri Damansara -> Hawaii 143
+Punggol ->  Hulu Perak 198
+Texas -> Bandar Sri Damansara 408
+Iowa -> Jelebu 141
+New Mexico -> Egmont 381
+Tennessee -> Rhode Island 341
+Jelebu -> Virginia 442
+Blackpool -> Hawaii 257
+Woodlands -> Tanjung Karang 443
+Batu Caves -> Oregon 250
+Selama -> New Jersey 336
+Labrador -> Bestari Jaya 162
+Egmont -> Telok Menegun 312
+Massachusetts -> Wyoming 268
+Telok Menegun -> Bukit Raja 214
+Cheras -> Ulu Klang 341
+Selama -> Chelsea 110
+Nebraska -> Kentucky 494
+Kuang -> Dalat 306
+New Mexico -> Setapak 162
+South Carolina -> Maran 160
+Miami -> Selayang 304
+Mississippi -> Pandamaran 478
+Serangoon -> Semenyih 326
+Semenyih -> Montana 268
+Batu Caves -> Bangi 440
+Lipis -> Petaling Jaya 439
+Texas -> Missouri 289
+Manchester City -> Shibuya 270
+Sevilla -> Perlis 456
+Maran -> Nevada 111
+Kundang -> Cyberjaya 309
+Serdang -> Bukit Panjang 358
+Punggol -> Michigan 443
+Connecticut -> Puncak Alam 108
+ Hulu Perak -> Mississippi 178
+Mersing -> Api-Api 478
+Jurong West -> Shinjuku 352
+Batu Caves -> Alabama 413
+Cheras -> Kota Raja 167
+Brighton -> Ohio 315
+Bestari Jaya -> Manchester City 375
+Georgia -> Kansas 358
+Cheshire East -> Real Betis 401
+Alabama -> Pasangan 299
+Bristol -> Colorado 179
+Kampong Ubi -> American Samoa 178
+Vermont -> Ang Mo Kio 414
+Tennessee -> Paya Lebar 136
+West Virginia -> Bukit Kemuning 128
+Virginia -> Beranang 387
+North Dakota -> Connecticut 426
+Arsenal -> Kapar 401
+Cardiff -> Yishun 335
+Puncak Alam -> Ueno 153
+Newton -> Illinois 233
+Api-Api -> Lipis 199
+Kundang -> Pandamaran 286
+Arizona -> Man United 397
+Pandamaran -> Crystal Palace 172
+Kuang -> California 307
+Batu Pahat -> Cheras 478
+Burnley -> Norwich City 462
+Tampines -> Vermont 108
+Idaho -> Burnley 447
+Lipis -> Kampar 384
+Manchester City -> Batu Caves 321
+Man United -> Batu 4 171
+Taman Sri Nanding -> Destin 344
+New Mexico -> Louisiana 122
+Derby -> Oklahoma 365
+Batu Pahat -> Lipis 429
+Connecticut -> Crystal Palace 393
+Cyberjaya -> Choa Chu Kang 464
+Barcelona -> West Ham 151
+Florida -> Orlando 421
+Dalat -> Bukit Kemuning 187
+Florida -> Chelsea 462
+Puchong -> Utah 480
+Batu Caves -> Clementi 109
+Setapak -> Brighton 258
+Massachusetts -> Leeds United 374
+Crystal Palace -> California 355
+Cornwall -> Ara Damansara 346
+Darlington -> Ijok 229
+Pelabuhan Klang -> Blackpool 225
+Lipis -> Tampa 279
+ Hulu Perak -> Kapar 345
+West Ham -> Pandamaran 209
+Norwich City -> Kota Raja 315
+Maran -> Petaling Jaya 330
+Brighton -> Indiana 139
+Setapak -> Batu 4 314
+Nebraska -> Cornwall 176
+Perlis -> Semenyih 358
+Warwick -> Avalon 204
+Woodlands -> Vermont 197
+Kent -> Connecticut 471
+Massachusetts -> Bestari Jaya 346
+Jurong East -> Tampa 108
+Beranang -> Man United 275
+Burnley -> Sungai Buloh 493
+Manchester City -> Api-Api 111
+Selayang -> New York 153
+Labrador -> Utah 371
+Jurong West -> Tanjung Karang 245
+Setapak -> Ueno 366
+Levante -> Barcelona 113
+Jurong East -> Kent 196
+Vermont -> Sungai Buloh 270
+Besut -> New Jersey 493
+Bandar Sri Damansara -> Besut 395
+Virginia -> Puncak Alam 358
+New Hampshire -> Perlis 302
+Bristol -> Shah Alam 172
+Choa Chu Kang -> Loyang 290
+New Mexico -> Dengkil 253
+Bandar Baru Bangi -> Kapar 301
+Damansara -> Cornwall 315
+ Hulu Perak -> Tanjung Karang 364
+Kuala Lumpur International Airport -> Bandar Sri Damansara 397
+Oregon -> Orlando 191
+Bukit Kemuning -> Mississippi 383
+Kansas -> Selayang 170
+Puchong -> Kuala Lumpur International Airport 262
+Liverpool -> Delaware 261
+ Hulu Perak -> Semenyih 345
+Washington -> Tampa 411
+Bangi -> Utah 404
+Barcelona -> Kota Raja 109
+Minnesota -> Shinjuku 216
+Real Madrid -> Setapak 380
+Maryland -> Beranang 168
+Ulu Klang ->  Hulu Perak 417
+Subang Jaya -> Shinjuku 260
+Puerto Rico -> Balakong 249
+Pennsylvania -> Watford 171
+Jurong West -> New Jersey 181
+Shibuya -> Api-Api 146
+Levante -> Montana 232
+Kentucky -> Kent 211
+Norwich City -> Barcelona 365
+Telok Menegun -> Warwick 140
+Nebraska -> Mississippi 185
+South Dakota -> Shibuya 162
+Clementi -> St. John East 455
+Baling -> Serdang 334
+Beranang -> Besut 399
+Liverpool -> Api-Api 211
+Minnesota -> Mersing 362
+Kuala Lumpur International Airport -> Egmont 119
+Tampa -> Sevilla 312
+Egmont -> Man United 315
+Nebraska -> Blackpool 332
+Kansas -> Beranang 383
+Real Madrid -> Kent 173
+Ulu Klang -> Iowa 499
+Bukit Kemuning -> Leeds United 323
+Selayang -> Bangi 109
+Puchong Perdana -> Dalat 283
+Bukit Kemuning -> Watford 120
+Odaiba -> Chelsea 472
+Kentucky -> Perlis 280
+Darlington -> American Samoa 298
+Puncak Alam -> California 143
+Real Madrid -> Bukit Panjang 256
+Ampang -> Florida 196
+Kota Raja -> Chelsea 236
+Serangoon -> Selama 362
+Destin -> Bristol 483
+Cheshire East -> Real Betis 280
+Shah Alam -> Minnesota 297
+Serangoon -> Pandamaran 383
+Cumbria -> Tanjung Karang 216
+Bandar Baru Bangi -> Kota Raja 240
+Tanjung Karang -> Burnley 107
+Indiana ->  Hulu Perak 426
+Destin -> Derby 428
+Texas -> Cornwall 214
+Semenyih -> Clementi 259
+Maran -> Halifax 339
+Bristol -> Serangoon 142
+Kampung Sungai Pusu -> Bandar Baru Bangi 265
+Punggol -> Bukit Raja 482
+Perlis -> Maine 130
+Bandar Sri Damansara -> Puchong 464
+Yishun -> Bandar Sri Damansara 148
+Dalat -> Putra Heights 221
+Rawang -> Bandar Baru Bangi 304
+Putra Heights -> Batu 4 258
+Odaiba -> Brighton 365
+Lipis -> Baling 444
+Maryland -> Api-Api 185
+Real Betis -> North Carolina 444
+Utah -> Arizona 286
+Country Heights -> St. John East 112
+Cheshire East -> Georgia 273
+Bristol -> Puchong 205
+Iowa -> Blackpool 341
+Bangi -> Lipis 150
+Batu Caves -> Barcelona 478
+Petaling Jaya -> Batu 4 402
+Jurong East -> Oklahoma 264
+Utah -> Shibuya 374
+Georgia -> Damansara 431
+Johor Bahru -> Rawang 182
+Mersing -> Dengkil 358
+Sungai Buloh -> Puerto Rico 192
+Massachusetts -> Brighton 439
+Woodlands -> Man United 342
+Kuang -> Ara Damansara 286
+Blackpool -> Serangoon 462
+Beranang -> Real Madrid 254
+Batu Caves -> Kajang 470
+Norwich City -> Choa Chu Kang 267
+South Dakota -> Bandar Sri Damansara 101
+Kuang -> Pelabuhan Klang 490
+Nebraska -> Selayang 462
+Michigan -> New Mexico 489
+Virginia -> New Jersey 301
+Shah Alam -> California 339
+Ampang -> Cheshire East 408
+Leeds United -> Kampar 265
+Serangoon -> Loyang 226
+Kota Raja -> Florida City 274
+Kuang -> Shibuya 429
+South Carolina -> Delaware 370
+Kampong Ubi -> Montana 126
+Sevilla -> Batu Pahat 213
+Georgia -> Kapar 196
+Destin -> New Hampshire 332
+North Carolina -> Miami 344
+Bukit Panjang -> Kajang 427
+Delaware -> North Carolina 228
+Tanjung Karang -> Punggol 456
+New Hampshire -> Dengkil 379
+Orlando -> Jurong West 447
+Cumbria -> Illinois 400
+Kent -> Avalon 151
+Bandar Baru Bangi -> Illinois 251
+Virginia -> Ara Damansara 199
+Glenmarie Cove -> Kota Tinggi 218
+Ulu Klang -> Pennsylvania 265
+Subang Jaya -> Putrajaya 480
+Delaware -> West Ham 131
+Manchester City -> Kota Tinggi 338
+New Mexico -> Choa Chu Kang 303
+Ampang -> Kent 279
+Ohio -> Bukit Panjang 295
+Cumbria -> Woodlands 309
+Dengkil -> Egmont 130
+Subang Jaya -> Baling 352
+Besut -> American Samoa 201
+Selayang -> Telok Menegun 402
+Kansas -> Mersing 280
+Idaho -> Ohio 391
+Puchong Perdana -> Jurong East 236
+Subang Jaya -> Bandar Sri Damansara 483
+Semenyih -> Punggol 336
+District of Columbia -> Newton 121
+Arkansas -> Montana 324
+Serdang -> South Carolina 116
+Sevilla -> Jurong East 291
+Woodlands -> Bandar Baru Bangi 401
+St. John East -> Pandamaran 209
+Cheshire East -> Beranang 393
+Damansara -> Arizona 144
+Bukit Raja -> Jeram 464
+Oklahoma -> Orlando 399
+Dengkil -> Cyberjaya 372
+Perlis -> New Hampshire 209
+Sevilla -> Chelsea 159
+Louisiana -> Arsenal 111
+Paya Lebar -> Burnley 452
+Arsenal -> Arkansas 340
+Subang Jaya -> Jurong East 432
+Georgia -> Dengkil 175
+Bukit Kemuning -> Texas 254
+Paya Lebar -> Texas 432
+Labrador -> Putra Heights 469
+Bangi -> Tennessee 352
+Georgia -> Pelabuhan Klang 335
+Connecticut -> Balakong 107
+Kampong Ubi -> Selama 215
+Setapak -> Watford 276
+Telok Menegun -> Bukit Kemuning 288
+Kampar -> Jurong West 208
+Levante -> Ang Mo Kio 171
+Alabama -> Maine 131
+Barcelona -> Liverpool 336
+Destin -> Avalon 439
+District of Columbia -> Florida City 270
+Baling -> Kentucky 305
+North Carolina -> Iowa 315
+Liverpool -> California 334
+Nevada -> Bukit Panjang 333
+Rhode Island -> Sevilla 471
+Ueno -> Cyberjaya 292
+Puncak Alam -> Pekan Sepang 115
+Cheshire East -> Putrajaya 329
+Bukit Raja -> West Virginia 451
+American Samoa -> Glenmarie Cove 408
+Missouri -> Newton 433
+Cumbria -> North Dakota 175
+Missouri -> Selayang 190
+Burnley -> Chelsea 305
+Vermont -> Crystal Palace 352
+Illinois -> Pennsylvania 313
+Kuala Lumpur International Airport -> Mississippi 119
+Georgia -> Pasangan 423
+Sungai Buloh -> Oklahoma 148
+Pelabuhan Klang -> Selayang 180
+Tanjung Karang -> Idaho 483
+Destin -> Selayang 266
+Kampong Ubi -> New Hampshire 292
+Chelsea -> Egmont 370
+Massachusetts -> Cheshire East 266
+Rhode Island -> Telok Menegun 188
+Real Betis -> Iowa 172
+Dengkil -> Odaiba 117
+Miami -> Puchong Perdana 474
+Dalat -> Minnesota 119
+Crystal Palace -> Jelebu 420
+Tampines -> Bandar Baru Klang 353
+Rhode Island -> Jeram 494
+Kampung Sungai Pusu -> Warwick 131
+Ueno -> Bandar Sri Damansara 473
+Mersing -> Lipis 213
+Kota Tinggi -> Tottenham 340
+Kota Tinggi -> Shibuya 460
+Ueno -> Arkansas 431
+Darlington -> Idaho 156
+Besut -> Cardiff 314
+Massachusetts -> Levante 279
+Sengkang -> Shinjuku 401
+Puncak Alam -> Blackpool 198
+Semenyih -> Ara Damansara 156
+Tanjung Karang -> Serangoon 341
+Nebraska -> Derby 153
+Choa Chu Kang -> Rawang 452
+Lipis -> Subang Jaya 444
+Besut -> Putra Heights 112
+Tottenham -> Batu 4 429
+Arkansas -> Kansas 157
+Levante -> Putrajaya 373
+Bandar Baharu -> Kansas 168
+New Jersey -> Maran 152
+ Hulu Perak -> Louisiana 485
+Serdang -> Pasangan 496
+Real Madrid -> Taman Sri Nanding 166
+Paya Lebar -> Manchester City 181
+South Dakota -> Massachusetts 353
+Tampa -> Beranang 105
+Ara Damansara -> Kent 417
+Mississippi -> Perlis 447
+South Carolina -> Putra Heights 366
+Mersing -> Nebraska 180
+Darlington -> Washington 369
+Kampar -> Warwick 451
+Oregon -> Alabama 117
+Mersing -> Louisiana 172
+Burnley -> Tampa 400
+Iowa -> Arizona 429
+Ara Damansara -> Manchester City 134
+Destin -> Brighton 149
+Selayang -> Puchong Perdana 386
+Besut -> Bandar Tun Hussein Onn 455
+Paya Lebar -> New York 430
+Serdang -> Alabama 312
+Manchester City -> Batu Pahat 152
+Putra Heights -> Batu Pahat 420
+California -> Kansas 271
+West Virginia -> Dengkil 348
+Nebraska -> Paya Lebar 181
+Jelebu -> Chelsea 174
+Selayang -> Tanjung Karang 166
+Mersing -> Louisiana 328
+Levante -> Man United 373
+Virgin Islands -> Ueno 365
+Indiana -> Lipis 410
+Country Heights -> Levante 106
+Labrador -> Mersing 455
+Florida City -> Newton 429
+Barcelona -> Shinjuku 196
+Bandar Baharu -> Manchester City 169
+Jurong West -> Ampang 474
+New Mexico -> Connecticut 214
+Clementi -> Montana 412
+Ara Damansara -> Bandar Baharu 134
+Levante -> Selama 172
+Ara Damansara -> Loyang 396
+Maine -> Batu 4 374
+Cumbria -> Rhode Island 250
+Telok Menegun -> Tottenham 241
+Bandar Baru Klang -> Jeram 479
+Kuang -> Utah 346
+Besut -> Manchester City 468
+Balakong -> Tampines 225
+Serdang -> Jelebu 193
+Bandar Baru Bangi -> Blackpool 225
+Ueno -> Newton 409
+Subang Jaya -> Norwich City 165
+Selama -> Real Madrid 131
+Arsenal -> Ijok 181
+Cornwall -> Pasangan 311
+Texas -> Bukit Panjang 265
+Orlando -> Idaho 456
+Hawaii -> Oregon 104
+West Virginia -> Arsenal 195
+Cardiff -> Puchong Perdana 174
+Subang Jaya -> District of Columbia 113
+Shah Alam -> Connecticut 294
+Orlando -> Arkansas 415
+Indiana -> Sungai Buloh 354
+Iowa -> Jurong East 337
+District of Columbia -> Michigan 309
+Semenyih -> Mississippi 282
+Kampong Ubi -> New York 409
+Bandar Baharu -> Kuala Lumpur International Airport 249
+Shah Alam -> Subang Jaya 208
+New Mexico -> Pasangan 160
+Selayang -> Mersing 229
+North Carolina -> Barcelona 438
+Kota Tinggi -> Kampar 277
+Pekan Sepang -> Api-Api 323
+Balakong -> Ijok 362
+Nevada -> Cheshire East 412
+Baling -> Jelebu 468
+Tennessee -> Missouri 172
+St. John East -> Perlis 480
+Puerto Rico -> Puchong Perdana 305
+Bristol -> North Dakota 344
+Perlis -> Cheras 425
+Man United -> Washington 226
+Bristol -> Selama 331
+Bristol -> Puchong 479
+Kansas -> Semenyih 436
+Puncak Alam -> Labrador 216
+Avalon -> Setapak 418
+Ampang -> Watford 424
+Ang Mo Kio -> Puchong Perdana 154
+Labrador -> American Samoa 190
+Kapar -> District of Columbia 305
+Arkansas -> Florida City 195
+Minnesota -> Pasangan 143
+Utah -> Florida City 490
+Mersing -> Manchester City 479
+Avalon -> Norwich City 274
+Tottenham -> District of Columbia 460
+Indiana -> Maran 117
+Woodlands -> Idaho 209
+Shibuya -> Wyoming 285
+Wyoming -> Sengkang 219
+Tampines -> Kota Tinggi 314
+Indiana -> District of Columbia 145
+Batu Caves -> Guam 294
+Iowa -> Ang Mo Kio 239
+Kajang -> Selayang 336
+Cyberjaya -> Api-Api 450
+New York -> Bandar Baru Klang 492
+Kentucky -> Puchong Perdana 205
+Perlis -> Ampang 286
+Shah Alam -> Colorado 205
+Alabama -> Choa Chu Kang 131
+Kent -> Bandar Baharu 293
+Tampa -> Lipis 185
+Punggol -> Virginia 462
+Texas -> Choa Chu Kang 177
+Arkansas -> Choa Chu Kang 200
+Real Betis -> Api-Api 483
+Pelabuhan Klang -> Glenmarie Cove 153
+Kuala Lumpur International Airport -> Bukit Kemuning 250
+Woodlands -> Colorado 242
+Pennsylvania -> Kota Tinggi 444
+South Dakota -> Cumbria 193
+Yishun -> Levante 173
+Illinois -> Batu 4 158
+Florida -> Destin 250
+Yishun -> Selayang 350
+Miami -> Newton 327
+Destin -> Pelabuhan Klang 124
+Loyang -> Norwich City 492
+Texas -> Iowa 383
+West Virginia -> Baling 162
+Mersing -> Manchester City 244
+Glenmarie Cove -> Kansas 301
+Oregon -> Wisconsin 122
+Pasangan -> Liverpool 230
+Tampines -> Taman Sri Nanding 434
+Rhode Island -> Virginia 126
+Brighton -> Kota Tinggi 486
+Taman Sri Nanding ->  Hulu Perak 469
+Country Heights -> Arizona 341
+Tanjung Karang -> Utah 212
+Tanjung Karang -> Ara Damansara 201
+Brighton -> Norwich City 438
+Nebraska -> Massachusetts 173
+South Dakota -> Ara Damansara 269
+Bukit Panjang -> Kampung Sungai Pusu 221
+Shah Alam -> Sengkang 314
+Man United -> Shibuya 212
+Subang Jaya -> Missouri 292
+Pandamaran -> Bandar Baru Klang 255
+Egmont -> North Carolina 284
+Puchong Perdana -> Country Heights 398
+Maryland -> Selayang 319
+Missouri -> Cornwall 212
+Real Betis -> Barcelona 385
+Bestari Jaya -> Washington 209
+Blackpool -> Destin 310
+Kampung Sungai Pusu -> Pekan Sepang 492
+Bristol -> Guam 246
+South Carolina -> Ang Mo Kio 312
+Woodlands -> Batu Pahat 165
+Kajang -> Delaware 315
+Ara Damansara -> Chelsea 410
+Guam -> Pekan Sepang 238
+Alaska -> Bukit Panjang 276
+Man United -> Manchester City 312
+Perlis -> Petaling Jaya 485
+Johor Bahru -> Georgia 337
+Alabama -> Destin 394
+Tampa -> Telok Menegun 478
+Ang Mo Kio -> Iowa 164
+Crystal Palace -> California 264
+Taman Sri Nanding -> Puchong Perdana 353
+Paya Lebar -> Bandar Baharu 376
+Avalon -> Puchong Perdana 464
+Putra Heights -> Ang Mo Kio 215
+Chelsea -> Serangoon 161
+Kuang -> Arkansas 121
+Tampa -> Loyang 388
+Shibuya -> Glenmarie Cove 272
+Choa Chu Kang -> Selayang 495
+Perlis -> American Samoa 466
+Bangi -> Tennessee 416
+Levante -> Balakong 406
+North Carolina -> Connecticut 407
+Bandar Sri Damansara -> Louisiana 312
+Delaware -> New Mexico 287
+Semenyih -> Illinois 358
+Jeram -> Warwick 283
+Pekan Sepang -> Levante 122
+Iowa -> Wisconsin 134
+Tampa -> Sungai Buloh 206
+Wisconsin -> Chelsea 118
+Cheshire East -> Pelabuhan Klang 108
+Kampong Ubi -> Virginia 233
+Manchester City -> Jurong East 284
+Glenmarie Cove -> Avalon 156
+Arkansas -> St. John East 198
+Glenmarie Cove -> Batu Pahat 420
+Real Betis -> Kentucky 249
+Balakong -> Selama 302
+Batu 4 -> Tottenham 330
+Bandar Baharu -> Kampar 192
+Batu Caves -> Kajang 148
+Batu Caves -> Tampa 326
+Sevilla -> Barcelona 159
+Country Heights -> Kent 487
+Colorado -> Illinois 234
+Ueno -> Pelabuhan Klang 378
+Cyberjaya -> Shah Alam 357
+Man United -> Wisconsin 275
+Kansas -> Glenmarie Cove 125
+Api-Api -> Mersing 351
+New Mexico -> Lipis 231
+Arsenal -> Virginia 436
+Paya Lebar -> Batu 4 140
+Virgin Islands -> Kapar 263
+Baling -> Bukit Raja 200
+New Hampshire -> Sevilla 120
+Florida City -> Liverpool 257
+Tampines -> Api-Api 248
+Oklahoma -> Woodlands 300
+Bukit Raja -> Michigan 346
+Choa Chu Kang -> Ueno 221
+New Hampshire -> Kota Tinggi 437
+Bandar Baharu -> District of Columbia 131
+Dengkil -> Kapar 450
+Arsenal -> Johor Bahru 400
+Shibuya -> Maran 496
+Virgin Islands -> Minnesota 203
+Batu Pahat -> Kent 348
+Ang Mo Kio -> Cheshire East 411
+Connecticut -> Pelabuhan Klang 484
+South Dakota -> Virgin Islands 274
+Wyoming -> Bandar Sri Damansara 336
+West Virginia -> Serangoon 351
+Arsenal -> Oregon 197
+Delaware -> Idaho 497
+Hawaii -> Tottenham 475
+North Carolina -> Puchong Perdana 352
+Pandamaran -> Pelabuhan Klang 366
+Country Heights -> Woodlands 445
+New Jersey -> Levante 112
+West Ham -> Nevada 177
+Halifax -> Louisiana 340
+Nebraska -> Destin 237
+Labrador -> Cheshire East 103
+Punggol -> Telok Menegun 456
+Maran -> Punggol 274
+Dalat -> Louisiana 316
+Kapar -> Levante 249
+Oregon -> Arsenal 236
+Maran -> Kota Tinggi 302
+Barcelona -> Oregon 250
+Sengkang -> Rawang 148
+Florida -> Semenyih 459
+Puerto Rico -> Levante 465
+Puchong Perdana -> Puerto Rico 476
+Watford -> Cheras 196
+Brighton -> Florida 232
+Texas -> Kota Tinggi 360
+Beranang -> Pasangan 179
+Wyoming -> Beranang 375
+Halifax -> Rawang 289
+Burnley -> Bestari Jaya 404
+Serangoon -> Connecticut 177
+Puchong -> Shinjuku 126
+Pelabuhan Klang -> Alabama 248
+Odaiba -> Washington 136
+Darlington -> Mersing 332
+Montana -> Missouri 283
+Ampang -> Damansara 401
+Cyberjaya -> Perlis 289
+Putra Heights -> South Dakota 489
+Selama -> Oklahoma 136
+Bandar Baru Bangi -> Norwich City 325
+St. John East -> Kapar 484
+Tampa -> Besut 326
+New York -> Beranang 273
+Puchong Perdana -> Paya Lebar 128
+Louisiana -> Wisconsin 460
+Florida -> Kampar 392
+Levante -> Besut 351
+Jeram -> Avalon 279
+Tampa -> Ang Mo Kio 262
+Cornwall -> Putatan 363
+Kapar -> Kampar 124
+Washington -> Kota Tinggi 457
+Kundang -> Damansara 452
+Pelabuhan Klang -> South Dakota 385
+Sevilla -> Balakong 476
+Tampa -> Cornwall 146
+Massachusetts -> Pelabuhan Klang 480
+Petaling Jaya -> Putrajaya 124
+Wyoming -> Api-Api 434
+Guam -> New York 409
+Yishun -> Semenyih 165
+Cornwall -> Dalat 164
+Paya Lebar -> Bukit Kemuning 443
+Vermont -> Ara Damansara 327
+Darlington -> North Dakota 291
+Newton -> Oregon 112
+St. John East -> Bandar Sri Damansara 265
+Labrador -> Dengkil 413
+Damansara -> Clementi 332
+Batu Caves -> Puerto Rico 341
+Kota Tinggi -> Pandamaran 109
+Rhode Island -> Destin 439
+New Jersey -> Pelabuhan Klang 303
+Brighton -> Arizona 238
+South Dakota -> Jurong East 448
+Arsenal -> Cyberjaya 436
+Real Madrid -> New Hampshire 154
+Jelebu -> Derby 144
+Nebraska -> Newton 239
+Jeram -> Labrador 142
+Destin -> Johor Bahru 274
+Subang Jaya -> Loyang 282
+Sungai Buloh -> Puchong 398
+Tampines -> New Jersey 109
+Taman Sri Nanding -> Beranang 267
+Texas -> Cardiff 486
+Cyberjaya -> North Carolina 151
+Jelebu -> Bukit Raja 327
+Brighton -> Kansas 481
+Serangoon -> Arkansas 403
+South Carolina -> Ohio 477
+Glenmarie Cove -> Bukit Kemuning 359
+Illinois -> Batu 4 338
+Manchester City -> Maran 140
+North Carolina -> Batu 4 433
+Maryland -> Cyberjaya 173
+Destin -> Taman Sri Nanding 422
+Watford -> Punggol 169
+Cheshire East -> Clementi 366
+Kansas -> Mersing 419
+Batu 4 -> Newton 431
+Mississippi -> Colorado 194
+Hawaii -> Oklahoma 310
+Burnley -> Selama 226
+American Samoa -> Yishun 334
+Minnesota -> Barcelona 438
+Setapak -> Balakong 489
+Kota Tinggi -> Cyberjaya 318
+New York -> Alaska 450
+Oklahoma -> Kampar 344
+Liverpool -> Warwick 296
+Bandar Baru Klang -> South Dakota 414
+Putra Heights -> Putatan 180
+North Carolina -> Virginia 390
+Oregon -> Oklahoma 329
+Louisiana -> Country Heights 103
+Jelebu -> New Jersey 203
+Missouri -> Bandar Baru Bangi 395
+Tanjung Karang -> Serangoon 286
+Telok Menegun -> Ohio 168
+Florida City -> Bandar Baru Bangi 225
+Damansara -> Illinois 236
+Pandamaran -> Damansara 107
+Kuang -> Batu 4 134
+West Ham -> Kent 179
+Bandar Baru Bangi -> Avalon 295
+Bandar Tun Hussein Onn -> Leeds United 331
+Sungai Buloh -> Bandar Tun Hussein Onn 143
+Dengkil -> Bandar Baru Bangi 410
+Putatan -> Arsenal 487
+Taman Sri Nanding -> Balakong 238
+Shah Alam -> Putatan 276
+Oklahoma -> Tennessee 212
+Kundang -> Crystal Palace 325
+Maryland -> Johor Bahru 446
+Jeram -> Guam 116
+Puerto Rico -> Ueno 459
+Norwich City -> Blackpool 135
+Manchester City -> New Jersey 459
+Cheras -> Glenmarie Cove 135
+Dalat -> Jurong West 287
+Tennessee -> Lipis 142
+Sevilla -> New Jersey 107
+Country Heights -> Alabama 363
+Putrajaya -> Paya Lebar 141
+Barcelona -> Idaho 403
+Baling -> Putatan 424
+Damansara -> Wisconsin 355
+Sengkang -> Vermont 483
+Bandar Baharu -> Brighton 482
+Kansas -> Pekan Sepang 363
+Washington -> Avalon 480
+Petaling Jaya -> Rawang 206
+South Dakota -> Kapar 248
+Setapak -> Loyang 259
+Putra Heights -> Bandar Baru Bangi 147
+Destin -> Cumbria 117
+Putra Heights -> St. John East 456
+American Samoa -> Idaho 248
+Real Betis -> Orlando 349
+Vermont -> Batu Pahat 427
+Real Madrid -> Louisiana 433
+Destin -> Kota Tinggi 299
+Putatan ->  Hulu Perak 438
+Maran -> Manchester City 453
+Jurong East -> District of Columbia 419
+Cyberjaya -> Balakong 231
+Paya Lebar -> Halifax 262
+Dengkil -> Indiana 185
+Egmont -> Taman Sri Nanding 272
+Baling -> Perlis 425
+Florida -> Nebraska 479
+Rhode Island -> Oklahoma 352
+Ueno -> North Dakota 381
+Tottenham -> Putrajaya 474
+Chelsea -> Oklahoma 362
+Jeram -> Puchong Perdana 248
+Serangoon -> Serdang 160
+Kampung Sungai Pusu -> Virgin Islands 332
+Miami -> Sengkang 283
+Man United -> Glenmarie Cove 350
+Hawaii -> New Jersey 383
+Miami -> Jurong West 412
+Wyoming -> Johor Bahru 254
+Selayang -> Missouri 132
+Bristol -> Bukit Kemuning 409
+Rawang -> Perlis 331
+Country Heights -> Tennessee 137
+Bandar Tun Hussein Onn -> Cumbria 133
+Darlington -> Api-Api 451
+Nebraska -> Ijok 356
+Kapar -> Ijok 216
+Washington -> Destin 391
+Kent -> New York 311
+Semenyih -> Kampar 240
+Kentucky -> Derby 449
+Utah -> Bukit Raja 387
+Setapak -> Colorado 495
+Cumbria -> Utah 449
+Missouri -> Odaiba 470
+Shah Alam -> New York 310
+Cumbria ->  Hulu Perak 430
+Pennsylvania -> Michigan 164
+Batu 4 -> Beranang 457
+Sengkang -> West Ham 260
+Puerto Rico -> Virgin Islands 389
+Colorado -> Bandar Tun Hussein Onn 486
+Man United -> Shah Alam 317
+Jelebu -> Kampar 448
+Kent -> Sengkang 498
+Pasangan -> St. John East 480
+Missouri -> Warwick 231
+Arizona -> Sungai Buloh 398
+Pennsylvania -> Tanjung Karang 474
+Tampa -> Dengkil 263
+Serangoon -> Real Betis 134
+Kampung Sungai Pusu -> Destin 210
+Utah -> Bandar Tun Hussein Onn 453
+Baling -> Shinjuku 337
+Cumbria -> Bandar Tun Hussein Onn 470
+Real Madrid -> Cyberjaya 456
+Louisiana -> Levante 346
+Iowa -> Dengkil 366
+Minnesota -> Real Madrid 263
+Bukit Panjang -> South Dakota 494
+Bukit Raja -> Washington 245
+Cumbria -> Orlando 472
+Connecticut -> Balakong 469
+Ueno -> Baling 286
+Cardiff -> Choa Chu Kang 240
+Glenmarie Cove -> North Dakota 371
+Semenyih -> Ueno 308
+Arkansas -> Ang Mo Kio 196
+New Mexico -> Chelsea 276
+Glenmarie Cove -> Sevilla 108
+Selayang -> Kampar 101
+Kuala Lumpur International Airport -> Real Madrid 312
+Derby -> Newton 489
+Paya Lebar -> Puncak Alam 138
+South Dakota -> Bristol 272
+Batu Caves -> Batu Pahat 407
+Yishun -> Florida City 309
+Taman Sri Nanding -> Baling 353
+Mississippi -> Cyberjaya 427
+Kampar -> Nevada 497
+Ara Damansara -> Indiana 396
+Kent -> Kansas 199
+California -> Man United 442
+ Hulu Perak -> Ang Mo Kio 487
+Montana -> Texas 111
+Baling -> Putatan 443
+Puerto Rico -> Country Heights 184
+Nevada -> Delaware 435
+California -> Taman Sri Nanding 156
+Darlington -> Louisiana 312
+Kundang -> Wyoming 470
+Chelsea -> Ulu Klang 462
+Sengkang -> Louisiana 247
+Bestari Jaya -> Maran 259
+Batu 4 -> Arizona 123
+Vermont -> Montana 146
+Shibuya -> New Mexico 194
+Florida -> North Carolina 380
+Puchong -> Bestari Jaya 347
+Bandar Baharu -> Barcelona 110
+Manchester City -> Kentucky 127
+Puchong Perdana -> Tanjung Karang 453
+Watford -> Connecticut 280
+Connecticut -> District of Columbia 314
+North Dakota -> Virgin Islands 164
+Lipis -> Leeds United 203
+Sungai Buloh -> Delaware 311
+Arkansas -> Perlis 195
+Glenmarie Cove -> Balakong 285
+Beranang -> Blackpool 239
+Lipis -> Nebraska 356
+Oklahoma -> Georgia 165
+Ampang -> South Carolina 146
+Mississippi -> Hawaii 466
+Bukit Raja -> Pasangan 211
+Barcelona -> Puchong 418
+Wisconsin -> Cumbria 210
+Massachusetts -> Selayang 352
+Wisconsin -> Connecticut 461
+Michigan -> Massachusetts 300
+Indiana -> Glenmarie Cove 498
+Arizona -> Bukit Kemuning 447
+Maine -> Kampong Ubi 335
+Jelebu -> Ijok 136
+Punggol -> Rawang 110
+Brighton -> Tanjung Karang 235
+Kota Raja -> Burnley 220
+Levante -> Johor Bahru 485
+Ueno -> Kampong Ubi 318
+North Dakota -> Jelebu 217
+Serdang -> Kota Tinggi 452
+District of Columbia -> Sengkang 203
+Puerto Rico -> Tampines 124
+Kota Raja -> Illinois 385
+Kampung Sungai Pusu -> Texas 492
+Guam -> Tampa 328
+New York -> Virginia 343
+Bukit Kemuning -> Telok Menegun 235
+Cyberjaya -> Oklahoma 462
+Shinjuku -> Watford 226
+New Hampshire -> Selama 360
+Jurong West -> Texas 291
+Illinois -> Norwich City 295
+Labrador -> Tottenham 230
+Real Madrid -> Tampines 463
+Virgin Islands -> Chelsea 310
+Lipis -> Choa Chu Kang 403
+Kansas -> Nevada 157
+Kundang -> Oklahoma 288
+Guam -> Destin 295
+Kota Raja -> Puncak Alam 194
+Rawang -> Nevada 344
+Nebraska -> Petaling Jaya 277
+Labrador -> Serdang 232
+Setapak -> Cheshire East 221
+Indiana -> Levante 303
+Batu Caves -> Bandar Baharu 240
+Tanjung Karang -> Ulu Klang 427
+Serangoon -> Blackpool 135
+Real Betis -> Yishun 337
+Perlis -> Warwick 235
+Burnley -> Louisiana 234
+Subang Jaya -> Tottenham 434
+Bandar Tun Hussein Onn -> Wyoming 125
+Bukit Raja -> St. John East 171
+Virginia -> Bangi 334
+Avalon -> Utah 395
+Ulu Klang -> Georgia 269
+Shinjuku -> Man United 440
+Balakong -> California 203
+Sevilla -> Burnley 317
+South Dakota -> Nebraska 452
+Pekan Sepang -> Real Madrid 231
+Api-Api -> Cardiff 351
+Putrajaya -> Newton 230
+Tampa -> Pekan Sepang 406
+Alaska -> Putatan 441
+Liverpool -> Idaho 387
+Selayang -> Florida 115
+Pelabuhan Klang -> Michigan 122
+Colorado -> Kajang 480
+Wisconsin -> Hawaii 436
+Selama -> Serdang 268
+Woodlands -> Massachusetts 476
+Kampung Sungai Pusu -> Puchong 451
+Bandar Sri Damansara -> Dengkil 329
+Real Betis -> Puncak Alam 133
+Ara Damansara -> Manchester City 246
+Tanjung Karang -> Barcelona 126
+Cardiff -> Perlis 426
+Nevada -> New Mexico 266
+Punggol -> Kampung Sungai Pusu 367
+Telok Menegun -> Batu Pahat 380
+Oregon -> Blackpool 170
+Rhode Island -> Alabama 202
+Maryland -> Arsenal 128
+Man United -> New Hampshire 183
+Burnley -> Rawang 125
+Petaling Jaya -> Pandamaran 449
+Telok Menegun -> Cumbria 201
+American Samoa -> Odaiba 485
+New York -> Florida 434
+Bandar Baru Bangi -> Mersing 163
+Serdang -> Putatan 240
+Puerto Rico -> Virginia 169
+Selayang -> Kampung Sungai Pusu 480
+Tampines -> California 262
+Idaho -> Subang Jaya 369
+Pasangan -> Dalat 223
+Kota Tinggi -> Semenyih 281
+Batu 4 -> Kentucky 275
+Vermont -> Blackpool 452
+Bandar Tun Hussein Onn -> Baling 117
+Darlington -> Kuang 176
+Tottenham -> Bandar Tun Hussein Onn 152
+Woodlands -> Nebraska 464
+Florida City -> Missouri 123
+Clementi -> Shinjuku 493
+Putrajaya -> Halifax 391
+West Ham -> Shah Alam 361
+Wisconsin -> Michigan 306
+Guam -> Rawang 270
+Sungai Buloh -> New Jersey 399
+Subang Jaya -> Dalat 299
+Balakong -> Maine 261
+Texas -> Puerto Rico 208
+Putra Heights -> Washington 203
+Semenyih ->  Hulu Perak 479
+OUTPUT
+181
+Perlis , 6225
+Destin , 6203
+Kota Tinggi , 5892
+Selayang , 5697
+Nebraska , 5583
+ Hulu Perak , 5377
+Manchester City , 5263
+Tanjung Karang , 5235
+Cyberjaya , 5187
+Tampa , 5102
+Puchong Perdana , 5089
+Utah , 5078
+Semenyih , 5056
+Mersing , 5043
+Baling , 5006
+Lipis , 4911
+Ueno , 4840
+Levante , 4831
+Batu 4 , 4767
+Man United , 4630
+Subang Jaya , 4613
+Connecticut , 4605
+South Dakota , 4554
+Dengkil , 4548
+Barcelona , 4475
+Oklahoma , 4436
+Virginia , 4433
+Api-Api , 4421
+Chelsea , 4387
+Pelabuhan Klang , 4381
+Texas , 4370
+Louisiana , 4321
+Balakong , 4303
+Kansas , 4268
+Brighton , 4257
+Bandar Sri Damansara , 4254
+Batu Caves , 4237
+Kent , 4213
+Burnley , 4192
+North Carolina , 4166
+Glenmarie Cove , 4159
+Beranang , 4154
+Massachusetts , 4106
+Serangoon , 4049
+Idaho , 4046
+Choa Chu Kang , 4027
+Cumbria , 4025
+Putra Heights , 4024
+New York , 4014
+Woodlands , 3993
+Cheshire East , 3971
+Bandar Baru Bangi , 3947
+Kampar , 3923
+Ara Damansara , 3917
+Batu Pahat , 3839
+Bukit Kemuning , 3826
+Florida , 3820
+Punggol , 3753
+Telok Menegun , 3703
+Real Madrid , 3672
+Setapak , 3638
+Puchong , 3630
+Kapar , 3582
+Tottenham , 3565
+California , 3564
+Puerto Rico , 3561
+Avalon , 3555
+Arsenal , 3548
+New Jersey , 3538
+Norwich City , 3533
+Iowa , 3520
+Besut , 3514
+Bukit Raja , 3498
+Jelebu , 3486
+Blackpool , 3481
+Taman Sri Nanding , 3474
+Arkansas , 3469
+Newton , 3453
+Shah Alam , 3450
+Kampung Sungai Pusu , 3441
+Paya Lebar , 3440
+Shinjuku , 3431
+St. John East , 3413
+Real Betis , 3367
+New Mexico , 3338
+Indiana , 3329
+Sungai Buloh , 3312
+Shibuya , 3300
+Putatan , 3292
+Georgia , 3278
+Bristol , 3262
+Missouri , 3222
+Illinois , 3201
+Sevilla , 3189
+Vermont , 3176
+District of Columbia , 3171
+Serdang , 3161
+Mississippi , 3159
+Pasangan , 3155
+Orlando , 3150
+Nevada , 3148
+Maran , 3133
+Washington , 3127
+Sengkang , 3056
+Ang Mo Kio , 3025
+Pandamaran , 3023
+Jurong East , 3015
+Labrador , 2983
+Selama , 2949
+Delaware , 2938
+Bukit Panjang , 2925
+Jurong West , 2897
+Wisconsin , 2877
+Bandar Tun Hussein Onn , 2865
+Rhode Island , 2863
+Odaiba , 2842
+American Samoa , 2808
+Arizona , 2803
+Damansara , 2773
+New Hampshire , 2768
+Wyoming , 2766
+Rawang , 2761
+Dalat , 2734
+Kuang , 2732
+Petaling Jaya , 2712
+Ulu Klang , 2680
+Country Heights , 2676
+Tampines , 2640
+Ampang , 2614
+Darlington , 2614
+Alabama , 2610
+Kentucky , 2595
+Hawaii , 2574
+Florida City , 2572
+Bandar Baharu , 2544
+Putrajaya , 2542
+Clementi , 2534
+Colorado , 2515
+Jeram , 2505
+Michigan , 2479
+Johor Bahru , 2378
+North Dakota , 2369
+Loyang , 2333
+Cardiff , 2326
+Liverpool , 2312
+Virgin Islands , 2300
+Pekan Sepang , 2290
+Crystal Palace , 2281
+Cornwall , 2247
+Montana , 2231
+Bangi , 2205
+Guam , 2196
+Egmont , 2183
+Kajang , 2176
+Yishun , 2151
+Miami , 2144
+Ohio , 2141
+Kota Raja , 2140
+Kundang , 2130
+Kampong Ubi , 2106
+Bestari Jaya , 2102
+Oregon , 2078
+Minnesota , 2041
+Derby , 2028
+Bandar Baru Klang , 1993
+Warwick , 1971
+South Carolina , 1947
+Tennessee , 1908
+Watford , 1862
+Pennsylvania , 1831
+Puncak Alam , 1756
+Cheras , 1742
+Kuala Lumpur International Airport , 1708
+West Virginia , 1635
+Halifax , 1621
+Leeds United , 1496
+Ijok , 1480
+West Ham , 1468
+Alaska , 1420
+Maryland , 1419
+Maine , 1231

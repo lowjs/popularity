@@ -1,0 +1,57 @@
+38
+Kuala Pilah -> Selangor 200
+Bukit Bintang -> Bukit Mertajam 456
+Bukit Mertajam -> Port Dickson 444
+Port Dickson -> Selangor 743
+Selangor -> Bukit Bintang 888
+Port Dickson -> Selangor 777
+Bukit Bintang -> Kinta 333
+Selangor -> Kuala Pilah 234
+Penang -> Bukit Mertajam 878
+Penang -> Kuala Selangor 644
+Batu Pahat -> Kuching 543
+Bukit Bintang -> Batu Pahat 409
+Bukit Mertajam -> Bandar Tun Razak 654
+Batu Pahat -> Selangor 754
+Kuching -> Bandar Tun Razak 809
+Bandar Tun Razak -> Selangor 377
+Bukit Bintang -> Kuala Muda 356
+Kuala Muda -> Kuala Pilah 200
+Penang -> Bandar Tun Razak 345
+Bandar Tun Razak -> Kuala Selangor 858
+Temerloh -> Selangor 545
+Pasir Mas -> Bukit Mertajam 434
+Bukit Mertajam -> Temerloh 123
+Bentong -> Pasir Mas 752
+Temerloh -> Bukit Bintang 542
+Pasir Mas -> Selangor 745
+Bukit Bintang -> Temerloh 523
+Selangor -> Pasir Mas 234
+Bentong -> Bukit Mertajam 802
+Penang -> Temerloh 642
+Kuala Pilah -> Bentong 732
+Bintulu -> Bukit Mertajam 452
+Bintulu -> Port Dickson 254
+Bentong -> Selangor 523
+Selangor -> Bintulu 124
+Port Dickson -> Bentong 734
+Bukit Bintang -> Kinta 294
+Selangor -> Kinta 544
+OUTPUT
+16
+Selangor , 6688
+Bukit Mertajam , 4243
+Bukit Bintang , 3801
+Bentong , 3543
+Bandar Tun Razak , 3043
+Port Dickson , 2952
+Penang , 2509
+Temerloh , 2375
+Pasir Mas , 2165
+Batu Pahat , 1706
+Kuala Selangor , 1502
+Kuala Pilah , 1366
+Kuching , 1352
+Kinta , 1171
+Bintulu , 830
+Kuala Muda , 556
