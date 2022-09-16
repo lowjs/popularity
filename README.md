@@ -66,13 +66,13 @@ Copy the commands in the center block to clipboard and paste them into your term
 
 Reload the page with your private repository. 
 
-You should now see the repository on the web interface.
+You should see the repository on the web interface.
 
-Click the X to see the status of the checks.
+Click X to see the status of the checks.
 
 ![Sample](https://github.com/lowjs/popularity/blob/main/resource/10.png?raw=true)
 
-You can use this page to see the runtime of your algorithm.
+Runtime of your alogrithm can be seen in this page
 
 ![Sample](https://github.com/lowjs/popularity/blob/main/resource/time.png?raw=true)
 
