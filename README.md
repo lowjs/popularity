@@ -17,7 +17,7 @@ Go to the repo at https://github.com/lowjs/popularity and press `Code`.
 
 Click `Download ZIP`.
 
-![ ](https://github.com/lowjs/popularity/blob/main/resource/1.png?raw=true)
+![ ](https://github.com/lowjs/popularity/blob/main/resource/11.png?raw=true)
 
 Navigate to where the zip was downloaded.
 
