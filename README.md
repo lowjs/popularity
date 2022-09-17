@@ -55,6 +55,8 @@ On the github main page, click `New`.
 
 ![Sample](https://github.com/lowjs/popularity/blob/main/resource/6.png?raw=true)
 
+
+
 Set the repository name to your **repo name** and the access to **private**. Then press `Create Repository`.
 
 ![Sample](https://github.com/lowjs/popularity/blob/main/resource/7.png?raw=true)
