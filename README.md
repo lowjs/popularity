@@ -12,6 +12,9 @@ Question details are available at `Popularity.pdf`
 ## Local clone 
 You need a copy of this repository :)
 
+1) Git Fork
+
+2) Manually Cloning
 Go to the repo at https://github.com/lowjs/popularity and press `Code`.
 
 
